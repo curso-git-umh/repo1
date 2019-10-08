@@ -1,3 +1,4 @@
 Ahora le ponemos contenido.
 Vamos a forzar un conficto.
 Forazando conclicto.
+Para ver que informa de que está desactualizado.
