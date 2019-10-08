@@ -2,3 +2,5 @@ Ahora le ponemos contenido.
 Vamos a forzar un conficto.
 Forazando conclicto
 Creamos un diff.
+Forazando conclicto.
+Para ver que informa de que está desactualizado.
