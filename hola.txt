@@ -5,3 +5,4 @@ Creamos un diff.
 Forazando conclicto.
 Para ver que informa de que está desactualizado.
 Uso de amend
+git commit diff
