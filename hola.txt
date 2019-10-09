@@ -6,3 +6,5 @@ Forazando conclicto.
 Para ver que informa de que está desactualizado.
 Uso de amend
 git commit diff
+Otro cambio para rama2
+
