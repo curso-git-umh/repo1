@@ -1,2 +1,0 @@
-Modificación para ver el funcionamiento de git stash
-
